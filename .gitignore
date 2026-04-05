@@ -1,0 +1,25 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.swp
+
+## Logs
+logs/
+*.log
+
+## Secrets & env
+appsettings.Development.json
+.env
+*.pfx
+*.p12
+
+## Docker
+.dockerignore
+
+## IDE
+.idea/
+.vscode/
+*.DS_Store
